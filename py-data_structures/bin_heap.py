@@ -23,7 +23,9 @@ class BinHeap:
             for item in iterable:
                 self.insert(Node)
 
+
 """
 insert node
 remove node
 search
+"""
